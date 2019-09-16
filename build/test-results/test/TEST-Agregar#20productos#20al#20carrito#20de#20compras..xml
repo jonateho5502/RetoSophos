@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Agregar productos al carrito de compras." tests="1" skipped="1" failures="0" errors="0" timestamp="2019-09-14T14:17:56" hostname="50HW014658" time="0.016">
+  <properties/>
+  <testcase name="Ingresar a la pagina web de PLAZA VEA y agregar un televisor al carrito de compras" classname="Agregar productos al carrito de compras." time="0.016">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
